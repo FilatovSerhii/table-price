@@ -1,5 +1,4 @@
 # table-price
-https://filatovserhii.github.io/table-price/
 
 ### [Site link](https://https://filatovserhii.github.io/table-price/)
 
