@@ -1,6 +1,6 @@
 # table-price
 
-### [Site link](https://https://filatovserhii.github.io/table-price/)
+### [Site link](https://filatovserhii.github.io/table-price/)
 
 Layout with product price.
 
